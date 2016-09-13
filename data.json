@@ -1,0 +1,150 @@
+{
+  "nodes": [
+    {
+      "id": 1,
+      "marks": [
+        {
+          "id": 1,
+          "weight": 1,
+          "links": [
+            { "toNode": 2, "toMark": 1, "weight": 1 },
+            { "toNode": 2, "toMark": 2, "weight": 1 },
+            { "toNode": 2, "toMark": 3, "weight": 1 }
+          ]
+        },
+        {
+          "id": 2,
+          "weight": 2,
+          "links": [
+            { "toNode": 2, "toMark": 1, "weight": 1 },
+            { "toNode": 2, "toMark": 2, "weight": 1 },
+            { "toNode": 2, "toMark": 3, "weight": 1 }
+          ]
+        },
+        {
+          "id": 3,
+          "weight": 3,
+          "links": [
+            { "toNode": 2, "toMark": 1, "weight": 1 },
+            { "toNode": 2, "toMark": 2, "weight": 1 },
+            { "toNode": 2, "toMark": 3, "weight": 1 }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "marks": [
+        {
+          "id": 1,
+          "weight": 1,
+          "links": [
+            { "toNode": 1, "toMark": 1, "weight": 1 },
+            { "toNode": 1, "toMark": 2, "weight": 1 },
+            { "toNode": 1, "toMark": 3, "weight": 1 },
+            { "toNode": 3, "toMark": 1, "weight": 1 },
+            { "toNode": 3, "toMark": 2, "weight": 1 },
+            { "toNode": 3, "toMark": 3, "weight": 1 },
+            { "toNode": 4, "toMark": 1, "weight": 1 },
+            { "toNode": 4, "toMark": 2, "weight": 1 },
+            { "toNode": 4, "toMark": 3, "weight": 1 }
+          ]
+        },
+        {
+          "id": 2,
+          "weight": 2,
+          "links": [
+            { "toNode": 1, "toMark": 1, "weight": 1 },
+            { "toNode": 1, "toMark": 2, "weight": 1 },
+            { "toNode": 1, "toMark": 3, "weight": 1 },
+            { "toNode": 3, "toMark": 1, "weight": 1 },
+            { "toNode": 3, "toMark": 2, "weight": 1 },
+            { "toNode": 3, "toMark": 3, "weight": 1 },
+            { "toNode": 4, "toMark": 1, "weight": 1 },
+            { "toNode": 4, "toMark": 2, "weight": 1 },
+            { "toNode": 4, "toMark": 3, "weight": 1 }
+          ]
+        },
+        {
+          "id": 3,
+          "weight": 3,
+          "links": [
+            { "toNode": 1, "toMark": 1, "weight": 1 },
+            { "toNode": 1, "toMark": 2, "weight": 1 },
+            { "toNode": 1, "toMark": 3, "weight": 1 },
+            { "toNode": 3, "toMark": 1, "weight": 1 },
+            { "toNode": 3, "toMark": 2, "weight": 1 },
+            { "toNode": 3, "toMark": 3, "weight": 1 },
+            { "toNode": 4, "toMark": 1, "weight": 1 },
+            { "toNode": 4, "toMark": 2, "weight": 1 },
+            { "toNode": 4, "toMark": 3, "weight": 1 }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "marks": [
+        {
+          "id": 1,
+          "weight": 1,
+          "links": [
+            { "toNode": 2, "toMark": 1, "weight": 1 },
+            { "toNode": 2, "toMark": 2, "weight": 1 },
+            { "toNode": 2, "toMark": 3, "weight": 1 }
+          ]
+        },
+        {
+          "id": 2,
+          "weight": 2,
+          "links": [
+            { "toNode": 2, "toMark": 1, "weight": 1 },
+            { "toNode": 2, "toMark": 2, "weight": 1 },
+            { "toNode": 2, "toMark": 3, "weight": 1 }
+          ]
+        },
+        {
+          "id": 3,
+          "weight": 3,
+          "links": [
+            { "toNode": 2, "toMark": 1, "weight": 1 },
+            { "toNode": 2, "toMark": 2, "weight": 1 },
+            { "toNode": 2, "toMark": 3, "weight": 1 }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "marks": [
+        {
+          "id": 1,
+          "weight": 1,
+          "links": [
+            { "toNode": 2, "toMark": 1, "weight": 1 },
+            { "toNode": 2, "toMark": 2, "weight": 1 },
+            { "toNode": 2, "toMark": 3, "weight": 1 }
+          ]
+        },
+        {
+          "id": 2,
+          "weight": 2,
+          "links": [
+            { "toNode": 2, "toMark": 1, "weight": 1 },
+            { "toNode": 2, "toMark": 2, "weight": 1 },
+            { "toNode": 2, "toMark": 3, "weight": 1 }
+          ]
+        },
+        {
+          "id": 3,
+          "weight": 3,
+          "links": [
+            { "toNode": 2, "toMark": 1, "weight": 1 },
+            { "toNode": 2, "toMark": 2, "weight": 1 },
+            { "toNode": 2, "toMark": 3, "weight": 1 }
+          ]
+        }
+      ]
+    }
+  ]
+}
